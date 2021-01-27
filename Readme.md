@@ -5,7 +5,8 @@ This script uses euclidean distance as lamda layer in the network.
 
 
 Framework : Tensorflow 2.3.1
-Model Architecture ::
+
+	Model Architecture 
 		
 	Model: "functional_21"
 	_________________________________________________________________
